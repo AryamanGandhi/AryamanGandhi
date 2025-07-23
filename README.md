@@ -1,18 +1,9 @@
-![Estate Parrot logo](image1)
+<img src="https://raw.githubusercontent.com/AryamanGandhi/AryamanGandhi/main/image1.png" alt="Estate Parrot logo" width="120"/>
 
 # Hi, I'm Aryaman (aka Kenny)! 👋  
 ## UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
 Building the future of real estate tech at [EstateParrot.com](https://estateparrot.com/)
-
----
-
-## 📱 Socials
-
-- [LinkedIn](https://www.linkedin.com/in/aryaman-gandhi-bb805a2a0/)
-- [Personal Instagram (kenny.g33)](https://www.instagram.com/kenny.g33/) — Personal account
-- [Producer YouTube (prodkayg)](https://www.youtube.com/@prodkayg) — Check out my beats!
-- [Producer TikTok (prodkayg)](https://www.tiktok.com/@prodkayg) — Check out my beats!
 
 ---
 
@@ -31,11 +22,9 @@ Building the future of real estate tech at [EstateParrot.com](https://estateparr
 
 **Programming:** Python, Java, JavaScript, Dart, HTML5, CSS3  
 **Databases:** PostgreSQL  
-**Frameworks:** Flutter, React  
-**Cloud/DevOps:** GCP, Cloud SQL, Cloud Run, Git, GitHub, PGAdmin, Docker
-
+**Frameworks:** Flutter, React, Streamlit  
+**Testing:** Playwright  
 **AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, LangChain  
-**Web/App:** Flutter, Streamlit, React, PostgreSQL, Playwright  
 **Cloud/DevOps:** GCP, Cloud SQL, Cloud Run, Git, GitHub, PGAdmin, Docker
 
 ---
