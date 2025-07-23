@@ -53,4 +53,4 @@ Building the future of real estate tech at [EstateParrot.com](https://estateparr
 
 ---
 
-Profile views: *Thanks for stopping by!*
+*Thanks for stopping by!*
