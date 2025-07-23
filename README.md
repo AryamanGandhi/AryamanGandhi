@@ -1,13 +1,13 @@
 Hi, I'm Aryaman! 👋  
 UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
-Check out Estate Parrot
+Check out [EstateParrot.com](https://estateparrot.com/)
 
 ---
 
 ## 🚀 Work
 
-- EstateParrot.com — Building real estate tech for the future  
+- [EstateParrot.com](https://estateparrot.com/) — Building real estate tech for the future  
 - Currently working on "Wendy" — an AI-powered wedding planner  
 - I make beats and share music as "KayG"
 
@@ -25,7 +25,7 @@ Check out Estate Parrot
 ## 🎤 About Me
 
 - 🎓 EECS student at UC Berkeley, Class of 2029
-- 🏢 Building at EstateParrot.com (no public repos yet!)
+- 🏢 Building at [EstateParrot.com](https://estateparrot.com/) (no public repos yet!)
 - 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects, experimenting with new tools, and startup culture
 - 📚 Occasionally create GitHub tutorials and share tech/music content on social media
@@ -48,15 +48,15 @@ Check out Estate Parrot
 
 ## 📊 GitHub Stats
 
-*(No public repos yet — building Estate Parrot and "Wendy" privately!)*
+*(No public repos yet — building [EstateParrot.com](https://estateparrot.com/) and "Wendy" privately!)*
 
 ---
 
 ## 📢 Latest Projects & Tutorials
 
-- **EstateParrot.com** — Real estate tech for the future  
+- **[EstateParrot.com](https://estateparrot.com/)** — Real estate tech for the future  
 - **Wendy (AI Wedding Planner)** — ML-powered wedding planning assistant  
-- **Music Production** — Beats and tutorials as "KayG"
+- **Music Production** — Beats and tutorials as "prodkayg"
 - **GitHub Tutorials** — Check my repos soon for hands-on guides!
 - **TikTok** — Follow for tech content, beats, and tutorials!
 - **Instagram** — Behind-the-scenes and updates
