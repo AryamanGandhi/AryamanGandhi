@@ -34,7 +34,6 @@ Building the future of real estate tech at [EstateParrot.com](https://estateparr
 - **[EstateParrot.com](https://estateparrot.com/)** — Real estate tech for the future  
 - **Wendy (AI Wedding Planner)** — ML-powered wedding planning assistant  
 - **Music Production** — Beats and tutorials as "prodkayg"  
-- **YouTube & TikTok** — Check out my beats!
 
 ---
 
