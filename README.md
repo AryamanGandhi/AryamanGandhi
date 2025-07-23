@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AryamanGandhi/AryamanGandhi/main/image1.png" alt="Estate Parrot logo" width="120"/>
-
 # Hi, I'm Aryaman (aka Kenny)! 👋  
 ## UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
