@@ -1,24 +1,18 @@
-[Hi, I'm Aryaman (aka Kenny)! 👋  
-UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
+![Estate Parrot logo](image1)
 
-Check out [EstateParrot.com](https://estateparrot.com/)
+# Hi, I'm Aryaman (aka Kenny)! 👋  
+## UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
----
-
-## 🚀 Work
-
-- [EstateParrot.com](https://estateparrot.com/) — Building real estate tech for the future  
-- Currently working on "Wendy" — an AI-powered wedding planner  
-- I make beats and share music as "KayG"
+Building the future of real estate tech at [EstateParrot.com](https://estateparrot.com/)
 
 ---
 
 ## 📱 Socials
 
-- [Producer TikTok (prodkayg)](https://www.tiktok.com/@prodkayg)
-- [Producer YouTube (prodkayg)](https://www.youtube.com/@prodkayg)
-- [Personal Instagram (kenny.g33)](https://www.instagram.com/kenny.g33/)
 - [LinkedIn](https://www.linkedin.com/in/aryaman-gandhi-bb805a2a0/)
+- [Personal Instagram (kenny.g33)](https://www.instagram.com/kenny.g33/) — Personal account
+- [Producer YouTube (prodkayg)](https://www.youtube.com/@prodkayg) — Check out my beats!
+- [Producer TikTok (prodkayg)](https://www.tiktok.com/@prodkayg) — Check out my beats!
 
 ---
 
@@ -28,7 +22,7 @@ Check out [EstateParrot.com](https://estateparrot.com/)
 - 🏢 Building at [EstateParrot.com](https://estateparrot.com/) (no public repos yet!)
 - 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects, experimenting with new tools, and startup culture
-- 📚 Occasionally create GitHub tutorials and share tech/music content on social media
+- 🎵 I create and share music content on social media
 - 🎤 Enjoy public speaking, teamwork, and leading creative projects
 
 ---
@@ -46,32 +40,28 @@ Check out [EstateParrot.com](https://estateparrot.com/)
 
 ---
 
+## 🚀 Projects
+
+- **[EstateParrot.com](https://estateparrot.com/)** — Real estate tech for the future  
+- **Wendy (AI Wedding Planner)** — ML-powered wedding planning assistant  
+- **Music Production** — Beats and tutorials as "prodkayg"  
+- **YouTube & TikTok** — Check out my beats!
+
+---
+
 ## 📊 GitHub Stats
 
 *(No public repos yet — building [EstateParrot.com](https://estateparrot.com/) and "Wendy" privately!)*
 
 ---
 
-## 📢 Latest Projects & Tutorials
-
-- **[EstateParrot.com](https://estateparrot.com/)** — Real estate tech for the future  
-- **Wendy (AI Wedding Planner)** — ML-powered wedding planning assistant  
-- **Music Production** — Beats and tutorials as "prodkayg"
-- **GitHub Tutorials** — Check my repos soon for hands-on guides!
-- **TikTok** — Follow for tech content, beats, and tutorials!
-- **Instagram** — Behind-the-scenes and updates
-- **YouTube** — In-depth tutorials, tech, and music videos
-
----
-
 ## 🌐 Connect with Me
 
-- [TikTok](https://www.tiktok.com/@prodkayg)
-- [Instagram](https://www.instagram.com/kenny.g33/)
-- [YouTube](https://www.youtube.com/@prodkayg)
-- [LinkedIn](https://www.linkedin.com/in/aryaman-gandhi-bb805a2a0/)
+- [LinkedIn](https://www.linkedin.com/in/aryaman-gandhi-bb805a2a0/) (`AryamanGandhi`)
+- [Personal Instagram](https://www.instagram.com/kenny.g33/) (`kenny.g33`) — Personal account
+- [YouTube](https://www.youtube.com/@prodkayg) (`prodkayg`) — Beats
+- [TikTok](https://www.tiktok.com/@prodkayg) (`prodkayg`) — Beats
 
 ---
 
 Profile views: *Thanks for stopping by!*
-](https://github.com/ShrishPremkrishna)
