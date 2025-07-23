@@ -1,4 +1,4 @@
-Hi, I'm Aryaman! 👋  
+[Hi, I'm Aryaman (aka Kenny)! 👋  
 UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
 Check out [EstateParrot.com](https://estateparrot.com/)
@@ -74,3 +74,4 @@ Check out [EstateParrot.com](https://estateparrot.com/)
 ---
 
 Profile views: *Thanks for stopping by!*
+](https://github.com/ShrishPremkrishna)
