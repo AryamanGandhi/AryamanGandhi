@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AryamanGandhi/AryamanGandhi/main/image1.png" alt="Estate Parrot logo" width="120"/>
+
 # Hi, I'm Aryaman (aka Kenny)! 👋  
 ## UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
@@ -32,12 +34,15 @@ Building the future of real estate tech at [EstateParrot.com](https://estateparr
 - **[EstateParrot.com](https://estateparrot.com/)** — Real estate tech for the future  
 - **Wendy (AI Wedding Planner)** — ML-powered wedding planning assistant  
 - **Music Production** — Beats and tutorials as "prodkayg"  
+- **YouTube & TikTok** — Check out my beats!
 
 ---
 
 ## 📊 GitHub Stats
 
-*(No public repos yet — building [EstateParrot.com](https://estateparrot.com/) and "Wendy" privately!)*
+![AryamanGandhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryamanGandhi&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AryamanGandhi&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanGandhi&layout=compact&theme=radical)
 
 ---
 
