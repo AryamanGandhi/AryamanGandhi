@@ -1,14 +1,11 @@
 # Hi, I'm Aryaman (aka Kenny)! 👋  
 ## UC Berkeley EECS '29 | AI Engineer | Student | Music Producer
 
-Building the future of real estate tech at [EstateParrot.com](https://estateparrot.com/)
-
 ---
 
 ## 🎤 About Me
 
 - 🎓 EECS student at UC Berkeley, Class of 2029
-- 🏢 Building at [EstateParrot.com](https://estateparrot.com/) (no public repos yet!)
 - 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects, experimenting with new tools, and startup culture
 - 🎵 I create and share music content on social media
